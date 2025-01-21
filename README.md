@@ -1,4 +1,4 @@
-#Projeto: Organização Financeira com Planilhas Inteligentes e IA
+##Projeto: Organização Financeira com Planilhas Inteligentes e IA
 
 Este projeto é focado em ajudar pessoas a organizarem suas finanças de maneira eficiente e prática, utilizando planilhas inteligentes integradas a recursos de Inteligência Artificial. 
 O objetivo principal foi ajudar os usuários a:
